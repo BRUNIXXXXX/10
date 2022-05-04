@@ -1,0 +1,179 @@
+body {
+	font-family: "Comic Sans MS", "Comic Sans";
+	text-align: center;
+	background: darkblue;
+	color: white;
+}
+
+#id1 {
+	background-color: blue;
+	margin: 5px;
+	border: 3px solid black;
+	clear: both;
+	padding: 5px;
+	resize: none;
+}
+
+#id2 {
+	background-color: blue;
+	margin: 5px;
+	border: 3px solid black;
+	width: 59%;
+	padding: 10px;
+	resize: none;
+	height: 50px;
+	float: left;
+}
+
+#id3 {
+	background-color: blue;
+	margin: 5px;
+	border: 3px solid black;
+	width: 38%;
+	padding: 10px;
+	resize: none;
+	height: 50px;
+	float: left;
+}
+
+#id4 {
+	width: 100%;
+}
+#id5 {
+	background-color: grey;
+	margin: 5px;
+	border: 3px solid black;
+	clear: both;
+}
+#id6 {
+	background-color: grey;
+	margin: 5px;
+	padding: 10px;
+	border: 3px solid black;
+	width: 67%;
+	float: left;
+	height: 150px;
+}
+
+#id7 {
+	background-color: #bfbfbf;
+	margin: 5px;
+	padding: 10px;
+}
+
+#id8 {
+	background-color: grey;
+	margin: 5px;
+	padding: 10px;
+	border: 3px solid black;
+	width: 28%;
+	float: left;
+	height: 100px;
+}
+
+#id9 {
+	background-color: pink;
+	margin: 5px;
+	padding: 10px;
+}
+
+#id10 {
+	background-color: orange;
+	margin: 5px;
+	padding: 10px;
+}
+
+#id11 {
+	background-color: blue;
+	margin: 5px;
+	padding: 10px;
+	width: 31%;
+	float: left;
+}
+
+#id12 {
+	background-color: green;
+	margin: 5px;
+	padding: 10px;
+	height: 50px;
+}
+
+#id13 {
+	background-color: red;
+	margin: 5px;
+	padding: 10px;
+}
+
+#id14 {
+	background-color: green;
+	margin: 5px;
+	padding: 10px;
+	height: 50px;
+}
+
+#id15 {
+	background-color: #94ba3c;
+	margin: 5px;
+	padding: 10px;
+	width: 34%;
+	float: left;
+}
+
+#id16 {
+	background-color: red;
+	margin: 5px;
+	padding: 10px;
+	height: 70px;
+}
+
+#id17 {
+	background-color: green;
+	margin: 5px;
+	padding: 10px;
+	height: 200px;
+}
+
+#id18 {
+	background-color: purple;
+	margin: 5px;
+	padding: 10px;
+}
+
+#id19 {
+	background-color: yellow;
+	margin: 5px;
+	padding: 10px;
+}
+
+#id20 {
+	background-color: #bdd48a;
+	margin: 5px;
+	padding: 10px;
+}
+
+#id21 {
+	background-color: blue;
+	margin: 5px;
+	padding: 10px;
+	float: left;
+	width: 31%;
+}
+
+#id22 {
+	background-color: orange;
+	margin: 5px;
+	padding: 10px;
+}
+
+#id23 {
+	background-color: green;
+	margin: 5px;
+	padding: 10px;
+}
+
+#id24 {
+	background-color: red;
+	margin: 5px;
+	padding: 10px;
+	height: 50px;
+}
